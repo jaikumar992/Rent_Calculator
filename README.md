@@ -7,7 +7,7 @@ This web app calculates how much each person needs to pay based on rent, food ex
 
 ## 🚀 Live Demo
 
-👉 [Click Here to Use the Rent Calculator](https://your-rent-calculator.streamlit.app/)
+👉 [Click Here to Use the Rent Calculator](https://rentcalculator-e7qme2gvlnhkxvibojrnjr.streamlit.app/)
 
 ---
 
